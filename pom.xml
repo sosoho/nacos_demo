@@ -78,7 +78,7 @@
                             <mainClass>com.learn.nacos.Test</mainClass>
                         </manifest>
                     </archive>
-               ta </configuration>
+                </configuration>
                 <executions>
                     <execution>
                         <id>make-assembly</id>
